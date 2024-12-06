@@ -1,0 +1,7 @@
+{
+  "client_id": "https://your-mock-endpoint.free.beeceptor.com/demodetails.json",
+  "application_type": "web",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "scope": "read write",
+  "redirect_uris": ["https://social-media-post-d17ea.firebaseapp.com/__/auth/handler"]
+}
