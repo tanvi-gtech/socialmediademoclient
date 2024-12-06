@@ -1,5 +1,5 @@
 {
-  "client_id": "https://your-mock-endpoint.free.beeceptor.com/demodetails.json",
+  "client_id": "https://github.com/tanvi-gtech/socialmediademoclient/blob/main/demodetails.json",
   "application_type": "web",
   "grant_types": ["authorization_code", "refresh_token"],
   "scope": "read write",
